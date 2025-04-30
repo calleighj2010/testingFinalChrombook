@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Marine Mammals</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Marine Biology: Mammals</h1>
+    <nav>
+      <a href="mammals.html" class="active">Mammals</a>
+      <a href="non-mammals.html">Non-Mammals</a>
+      <a href="plants.html">Plants</a>
+      <a href="support.html">Support</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="animal">
+      <img src="images/dolphin.jpg" alt="Dolphin">
+      <h2>Dolphin</h2>
+      <p>Dolphins are intelligent, social marine mammals known for their playful behavior and echolocation skills.</p>
+    </section>
+
+    <section class="animal">
+      <img src="images/bluewhale.jpg" alt="Blue Whale">
+      <h2>Blue Whale</h2>
+      <p>The blue whale is the largest animal to ever live on Earth. These gentle giants feed mostly on tiny krill.</p>
+    </section>
+
+    <section class="animal">
+      <img src="images/seal.jpg" alt="Seal">
+      <h2>Seal</h2>
+      <p>Seals are fin-footed marine mammals that spend time both in water and on land, known for their streamlined bodies.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Marine Biology Project</p>
+  </footer>
+</body>
+</html>
